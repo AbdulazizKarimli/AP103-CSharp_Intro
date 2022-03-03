@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJ3p2jsME3FLZ/7C85JJ6SqSi0etEwu4mJxhUoDmSYXfpFEEo/V5IV0w2swClzicoGyZ+3Y+SThD1YShAwKLzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\p103\\P103\\P103\\P103.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
